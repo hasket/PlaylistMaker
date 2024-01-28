@@ -2,4 +2,6 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="menuColorBlack">#000000</color>
+    <color name="buttonTextColour">#1A1B22</color>
 </resources>
