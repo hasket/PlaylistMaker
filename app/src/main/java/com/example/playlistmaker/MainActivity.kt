@@ -15,14 +15,9 @@ class MainActivity : AppCompatActivity() {
         val library = findViewById<Button>(R.id.library)
         val settings = findViewById<Button>(R.id.settings)
 
-        val searchIntent = Intent(this, SearchActivity::class.java)
-        // Первый способ, через анонимную функцию
-        val imageClickListener: View.OnClickListener = object : View.OnClickListener {
-            override fun onClick(v: View?) {
-                startActivity(searchIntent)
-            }
+        search.setOnClickListener {
+            val searchIntent = Intent(this, SearchActivity::class.java)
         }
-        search.setOnClickListener(imageClickListener) // передали в лисенер объект кнопки
 
         library.setOnClickListener {
             val libIntent = Intent(this, LibraryActivity::class.java)

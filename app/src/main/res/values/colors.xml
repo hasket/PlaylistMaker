@@ -4,4 +4,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="menuColorBlack">#000000</color>
     <color name="buttonTextColour">#1A1B22</color>
+    <color name="settingsSVG">#AEAFB4</color>
+    <color name="iconGeneral">#1A1B22</color>
 </resources>
