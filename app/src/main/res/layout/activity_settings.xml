@@ -28,7 +28,7 @@
             android:layout_marginEnd="62dp"
             android:padding="12dp"
             android:paddingRight="86dp"
-            android:text="Настройки"
+            android:text="@string/Settings"
             android:textColor="#1A1B22"
             android:textSize="26sp" />
     </LinearLayout>
@@ -44,7 +44,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Темная тема"
+            android:text="@string/BlackTheme"
             android:textSize="19sp"
             android:textColor="@color/menuColorBlack"/>
         <Switch
@@ -62,7 +62,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Поделиться приложением"
+            android:text="@string/ShareApp"
             android:textSize="19sp"
             android:textColor="@color/menuColorBlack"/>
         <ImageView
@@ -81,7 +81,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Написать в поддержку"
+            android:text="@string/WriteToSupport"
             android:textSize="19sp"
             android:textColor="@color/menuColorBlack"/>
         <ImageView
@@ -100,7 +100,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Пользовательское соглашение"
+            android:text="@string/UserFriendly"
             android:textSize="19sp"
             android:textColor="@color/menuColorBlack"/>
         <ImageView

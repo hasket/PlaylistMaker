@@ -14,7 +14,7 @@ class SettingsActivity : AppCompatActivity() {
         val backArray = findViewById<ImageView>(R.id.arrowBack)
 
         backArray.setOnClickListener{
-            val backIntent = Intent(Intent.ACTION_USER_BACKGROUND)
+            val backIntent = Intent(this, MainActivity::class.java)
             startActivity(backIntent)
         }
 

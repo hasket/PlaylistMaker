@@ -3,4 +3,11 @@
     <string name="title_hello">Привет, Практикум</string>
     <string name="playlist_maker">Playlist Maker</string>
     <string name="search">Поиск</string>
+    <string name="ShareApp">Поделиться приложением</string>
+    <string name="WriteToSupport">Написать в поддержку</string>
+    <string name="UserFriendly">Пользовательское соглашение</string>
+    <string name="BlackTheme">Темная тема</string>
+    <string name="Settings">Настройки</string>
+    <string name="library">Медиатека</string>
+    <string name="Search">Поиск</string>
 </resources>
