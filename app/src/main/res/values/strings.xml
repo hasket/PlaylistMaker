@@ -10,4 +10,9 @@
     <string name="Settings">Настройки</string>
     <string name="library">Медиатека</string>
     <string name="Search">Поиск</string>
+    <string name="Not">Нет</string>
+    <string name="Yes">Да</string>
+    <string name="raiting">Рейтинг этого фильма больше, чем 9?:</string>
+    <string name="Question">Вопрос:</string>
+    <string name="list_number">2/10</string>
 </resources>

@@ -17,6 +17,7 @@ class MainActivity : AppCompatActivity() {
 
         search.setOnClickListener {
             val searchIntent = Intent(this, SearchActivity::class.java)
+            startActivity(searchIntent)
         }
 
         library.setOnClickListener {
