@@ -2,10 +2,10 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="menuColorBlack">#000000</color>
-    <color name="buttonTextColour">#1A1B22</color>
+    <color name="menuColorBlack">#FFFFFFFF</color>
+    <color name="buttonTextColour">#FFFFFFFF</color>
     <color name="settingsSVG">#AEAFB4</color>
     <color name="iconGeneral">#1A1B22</color>
-    <color name="generalBackground">#3772E7</color>
-    <color name="settingsGeneral">#FFFFFFFF</color>
+    <color name="generalBackground">#1A1B22</color>
+    <color name="settingsGeneral">#1A1B22</color>
 </resources>
