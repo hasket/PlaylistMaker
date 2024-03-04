@@ -10,7 +10,7 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal"
         android:layout_margin="0dp">
-
+<!--
         <ImageView
             android:id="@+id/arrowBack"
             android:layout_width="wrap_content"
@@ -18,7 +18,7 @@
             android:src="@drawable/arrow_back"
             android:padding="12dp"
             android:layout_gravity="start" />
-
+-->
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
@@ -28,7 +28,7 @@
             android:paddingEnd="86dp"
             android:text="@string/Settings"
             android:fontFamily="@font/ys_display_medium"
-            android:textColor="@color/buttonTextColour"
+            android:textColor="@color/SettingsGeneralColor"
             android:textSize="26sp" />
     </LinearLayout>
 

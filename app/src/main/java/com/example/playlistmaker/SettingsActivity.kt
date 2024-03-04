@@ -11,11 +11,11 @@ class SettingsActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_settings)
 
-        val backArray = findViewById<ImageView>(R.id.arrowBack)
-
-        backArray.setOnClickListener{
-            val backIntent = Intent(this, MainActivity::class.java)
-            startActivity(backIntent)
+//        val backArray = findViewById<ImageView>(R.id.arrowBack)
+//
+//        backArray.setOnClickListener{
+//            val backIntent = Intent(this, MainActivity::class.java)
+//            startActivity(backIntent)
         }
 
     }

@@ -3,7 +3,8 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="menuColorBlack">#FFFFFFFF</color>
-    <color name="buttonTextColour">#FFFFFFFF</color>
+    <color name="buttonTextColour">#1A1B22</color>
+    <color name="SettingsGeneralColor">#FFFFFF</color>
     <color name="settingsSVG">#AEAFB4</color>
     <color name="iconGeneral">#1A1B22</color>
     <color name="generalBackground">#1A1B22</color>
