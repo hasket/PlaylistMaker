@@ -4,9 +4,12 @@
     <color name="white">#FFFFFFFF</color>
     <color name="menuColorBlack">#FFFFFFFF</color>
     <color name="buttonTextColour">#1A1B22</color>
-    <color name="SettingsGeneralColor">#FFFFFF</color>
+    <color name="GeneralNameColor">#FFFFFF</color>
     <color name="settingsSVG">#AEAFB4</color>
-    <color name="iconGeneral">#1A1B22</color>
+    <color name="iconGeneral">#FFFFFF</color>
     <color name="generalBackground">#1A1B22</color>
     <color name="settingsGeneral">#1A1B22</color>
+    <color name="smallSettingsFieldValue">#1A1B22</color>
+    <color name="smallSettingsBackground">#FFFFFF</color>
+    <color name="clearButton">#FFFFFFFF</color>
 </resources>

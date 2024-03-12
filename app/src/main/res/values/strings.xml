@@ -12,7 +12,13 @@
     <string name="Search">Поиск</string>
     <string name="Not">Нет</string>
     <string name="Yes">Да</string>
-    <string name="raiting">Рейтинг этого фильма больше, чем 9?:</string>
-    <string name="Question">Вопрос:</string>
-    <string name="list_number">2/10</string>
+    <string name="raiting" translatable="false">Рейтинг этого фильма больше, чем 9?:</string>
+    <string name="Question" translatable="false">Вопрос:</string>
+    <string name="list_number" translatable="false">2/10</string>
+    <string name="courseLink" translatable="false">https://practicum.yandex.ru/android-developer/</string>
+    <string name="subjectMail">\"Спасибо разработчикам и разработчицам за крутое приложение!\"</string>
+    <string name="messageToDevelop">\"Сообщение разработчикам и разработчицам приложения Playlist Maker\"</string>
+    <string name="developerEmail" translatable="false">stivprog@yandex.ru</string>
+    <string name="agreementLink" translatable="false">https://yandex.ru/legal/practicum_offer/</string>
+    <string name="SearchGeneral">Поиск</string>
 </resources>

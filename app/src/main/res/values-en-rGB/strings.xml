@@ -2,4 +2,15 @@
 <resources>
     <string name="app_name">Playlist Maker</string>
     <string name="title_hello">Hello, Practicum</string>
+    <string name="playlist_maker">Playlist Maker</string>
+    <string name="search">Search</string>
+    <string name="ShareApp">Share application</string>
+    <string name="WriteToSupport">Write to support</string>
+    <string name="UserFriendly">User Agreement</string>
+    <string name="BlackTheme">Dark Theme</string>
+    <string name="Settings">Settings</string>
+    <string name="library">Media Library</string>
+    <string name="Search">Search</string>
+    <string name="Not">No</string>
+    <string name="Yes">Yes</string>
 </resources>
