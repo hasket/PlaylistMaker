@@ -6,10 +6,11 @@
     <color name="buttonTextColour">#1A1B22</color>
     <color name="GeneralNameColor">#FFFFFF</color>
     <color name="settingsSVG">#AEAFB4</color>
-    <color name="iconGeneral">#FFFFFF</color>
+    <color name="iconGeneral">#1A1B22</color>
     <color name="generalBackground">#1A1B22</color>
     <color name="settingsGeneral">#1A1B22</color>
     <color name="smallSettingsFieldValue">#1A1B22</color>
     <color name="smallSettingsBackground">#FFFFFF</color>
-    <color name="clearButton">#FFFFFFFF</color>
+    <color name="clearButton">#1A1B22</color>
+    <color name="arrowBack">#FFFFFFFF</color>
 </resources>

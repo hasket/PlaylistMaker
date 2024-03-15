@@ -7,7 +7,7 @@
         <item name="android:paddingBottom">24dp</item>
     </style>
 
-    <style name="GeneralButtonStyle">
+    <style name="GeneralButtonStyle" parent="Widget.MaterialComponents.Button.UnelevatedButton">
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">match_parent</item>
         <item name="android:layout_marginLeft">16dp</item>

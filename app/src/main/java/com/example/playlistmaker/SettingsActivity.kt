@@ -33,9 +33,8 @@ class SettingsActivity : AppCompatActivity() {
             val title = getString(R.string.messageToDevelop)
             val developerMail = getString(R.string.developerEmail)
             val supportIntent = Intent(Intent.ACTION_SENDTO)
-            supportIntent.data = Uri.parse("mailto:")
+            supportIntent.data = Uri.parse("mailto: $developerMail")
             supportIntent.putExtra(Intent.EXTRA_SUBJECT, title)
-            supportIntent.putExtra(Intent.EXTRA_EMAIL, developerMail)
             supportIntent.putExtra(Intent.EXTRA_TEXT, message)
             startActivity(supportIntent)
         }

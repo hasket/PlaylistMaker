@@ -12,4 +12,5 @@
     <color name="smallSettingsFieldValue">#AEAFB4</color>
     <color name="smallSettingsBackground">#E6E8EB</color>
     <color name="clearButton">#1A1B22</color>
+    <color name="arrowBack">#1A1B22</color>
 </resources>
