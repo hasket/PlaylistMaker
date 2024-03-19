@@ -10,7 +10,7 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal"
         android:layout_margin="0dp">
-<!--
+
         <ImageView
             android:id="@+id/arrowBack"
             android:layout_width="wrap_content"
@@ -18,7 +18,7 @@
             android:src="@drawable/arrow_back"
             android:padding="12dp"
             android:layout_gravity="start" />
--->
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
@@ -28,7 +28,7 @@
             android:paddingEnd="86dp"
             android:text="@string/Settings"
             android:fontFamily="@font/ys_display_medium"
-            android:textColor="@color/SettingsGeneralColor"
+            android:textColor="@color/GeneralNameColor"
             android:textSize="26sp" />
     </LinearLayout>
 
@@ -49,6 +49,7 @@
             style="@style/SettingsMenuText"
             android:text="@string/ShareApp" />
         <ImageView
+            android:id="@+id/share"
             style="@style/SettingsMenuImages"
             android:src="@drawable/share" />
     </FrameLayout>
@@ -58,6 +59,7 @@
             style="@style/SettingsMenuText"
             android:text="@string/WriteToSupport" />
         <ImageView
+            android:id="@+id/support"
             style="@style/SettingsMenuImages"
             android:src="@drawable/support" />
     </FrameLayout>
@@ -67,6 +69,7 @@
             style="@style/SettingsMenuText"
             android:text="@string/UserFriendly" />
         <ImageView
+            android:id="@+id/personAgreement"
             style="@style/SettingsMenuImages"
             android:src="@drawable/arrow_forward" />
     </FrameLayout>
